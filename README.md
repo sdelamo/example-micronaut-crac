@@ -1,4 +1,4 @@
-# example-micronaut
+# example-micronaut-CrAC
 
 ## Building
 
